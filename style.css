@@ -514,3 +514,13 @@ section,
     padding: 1.4rem 1.2rem;
   }
 }
+.repo-text-link {
+  margin-top: 0.4rem;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+.repo-text-link a {
+  color: #a5b4fc;
+  text-decoration: underline;
+}
